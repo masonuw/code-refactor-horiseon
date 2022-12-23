@@ -10,9 +10,7 @@ The only installation-related item is to be able to open the website in a web br
 
 ## Usage
 
-The website is largely informative of the services that Horiseon provides; refactoring of the code has not changed the function of the website and therefore keeps the usage relatively simple. There are links on the website that can take users to the different sections of the website. The three links in the navbar correspond to the three main sections of the landing page, which can be clicked on when viewing the top of the webpage.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+The website is largely informative of the services that Horiseon provides; refactoring of the code has not changed the function of the website and therefore keeps the usage relatively simple. There are links on the website that can take users to the different sections of the website. The three links in the navbar correspond to the three main sections of the landing page, which can be clicked on when viewing the top of the webpage. Here are two screenshots showing what the front end of the page looks like:
 
 ![screenshot-1](assets/images/screenshot-1.png)
 
