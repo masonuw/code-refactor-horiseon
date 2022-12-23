@@ -16,6 +16,10 @@ The website is largely informative of the services that Horiseon provides; refac
 
 ![screenshot-1](assets/images/screenshot-2.png)
 
+## Credits
+
+For this README file, I used the UW Bootcamp Prework README formatting.
+
 ## License
 
 This website uses the MIT license.
